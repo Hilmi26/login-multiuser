@@ -1,0 +1,22 @@
+.banner {
+	background: url("../../img/landingpage.jpg");
+	background-size: cover;
+	padding-top: 20%;
+	padding-bottom: 20%;
+	color: white;
+}
+
+.lingkaran {
+	display: inline-block;
+	border-radius: 50%;
+	width: 150px;
+	margin: auto;
+	height: 150px;
+	color: white;
+	background-color: #dc3545;
+}
+
+.lingkaran i {
+	position: relative;
+	top: 30px;
+}
